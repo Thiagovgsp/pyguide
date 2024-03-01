@@ -10,3 +10,5 @@ for i in range(5):
         print('Bigger than 2')
     print('Done with i', i)
 print('All done')
+
+#i jumps each starting from 0
